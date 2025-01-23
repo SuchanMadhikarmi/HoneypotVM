@@ -42,6 +42,11 @@ Obesrving live attacks (RDP Brute Force) from all around the world:  <br/>
 <br />
 <br />
 
+<h2>Outcomes:</h2>
+- Successfully set up a Windows-based honeypot to simulate an exposed environment for attackers.<br/>
+- Monitored and collected security logs of failed RDP login attempts, gaining insights into real-world attack patterns.<br/>
+- Visualized geographic origins of attacks using Sentinel's mapping features, revealing high-risk regions.<br/>
+- Demonstrated the value of using honeypots for proactive threat intelligence and cybersecurity awareness.<br/>
 </p>
 
 <!--
