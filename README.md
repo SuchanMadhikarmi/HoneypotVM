@@ -3,8 +3,8 @@
 
 
 <h2>Description</h2>
-Honeypot Setup:Configured a Windows-based VM in Azure with RDP access exposed to the internet to attract potential attackers.
-Monitoring:Integrated the VM with Microsoft Sentinel to collect and analyze security logs.
+Honeypot Setup:Configured a Windows-based VM in Azure with RDP access exposed to the internet to attract potential attackers.<br/>
+Monitoring:Integrated the VM with Microsoft Sentinel to collect and analyze security logs.<br/>
 
 Visualization:Utilized Sentinel's mapping capabilities to display the geographic origins of failed RDP login attempts.
 <br />
